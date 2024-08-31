@@ -1,0 +1,79 @@
+{
+  "login": [
+    {
+      "name": "shruti@1234",
+      "password": "shru@123",
+      "id": "91db"
+    },
+    {
+      "id": "shruti1234",
+      "name": "Shruti Ghosh",
+      "password": "Shruti@1234",
+      "email": "Shruti@1234",
+      "phone": "123457",
+      "country": "India",
+      "address": "Vivek Nagar",
+      "gender": ""
+    },
+    {
+      "id": "Purvi123",
+      "name": "Purvi Ghosh",
+      "password": "Purvi@1234",
+      "email": "purvi@1234",
+      "phone": "567432",
+      "country": "usa",
+      "address": "nav nagar",
+      "gender": ""
+    },
+    {
+      "id": "Priya453",
+      "name": "Priya Roy",
+      "password": "Priya@1234",
+      "email": "priya@651",
+      "phone": "786543",
+      "country": "",
+      "address": "Damodar Nagar",
+      "gender": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "address": "",
+      "gender": ""
+    },
+    {
+      "id": "Shruti345",
+      "name": "Shruti",
+      "password": "Shruti@3445",
+      "email": "shruti@345",
+      "phone": "34566",
+      "country": "us",
+      "address": "DADA NAGAR",
+      "gender": ""
+    }
+  ],
+  "restro": [
+    {
+      "id": "4",
+      "name": "Coco Cake",
+      "food": "4.8",
+      "Price": "170"
+    },
+    {
+      "id": "1",
+      "name": "Veg Momo",
+      "food": "4.8",
+      "Price": "100"
+    },
+    {
+      "id": "5",
+      "name": "momo",
+      "food": "3.6",
+      "Price": "130"
+    }
+  ]
+}

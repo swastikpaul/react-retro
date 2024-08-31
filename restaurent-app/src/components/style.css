@@ -1,0 +1,64 @@
+
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+
+
+/* REGISTER - SIGNUP */
+  .errmsg{
+    color: red;
+  }
+ .card-body{
+   background-color: rgb(131, 136, 136);
+
+
+ }
+.form-group{
+    margin-left: 20%;
+}
+ 
+
+  a{
+    text-decoration: none !important;
+    color: white !important;
+    padding: 2px;
+  }
+
+
+  .card-header{
+    width: 100%;
+    background-color: rgb(41, 41, 199);
+    color: #fff;
+    padding: 1%;
+  }
+  a{
+    text-decoration: none !important;
+    color: white !important;
+    padding: 2px;
+  }
+.header{
+    background-color: rgb(29, 133, 133);
+    color: #fff;
+}
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  /* LOGIN */
+
+
+ 
+
